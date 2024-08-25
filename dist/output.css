@@ -1023,6 +1023,10 @@ video {
     margin-left: -3rem;
   }
 
+  .lg\:-ml-10 {
+    margin-left: -2.5rem;
+  }
+
   .lg\:flex-row {
     flex-direction: row;
   }
@@ -1045,6 +1049,14 @@ video {
 
   .lg\:gap-32 {
     gap: 8rem;
+  }
+
+  .lg\:gap-36 {
+    gap: 9rem;
+  }
+
+  .lg\:gap-40 {
+    gap: 10rem;
   }
 
   .lg\:text-left {
